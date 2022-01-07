@@ -1,4 +1,4 @@
-#Monty Hall game
+# Monty Hall game
 
 CS-A1113 Exercise - Fall 2021
  
